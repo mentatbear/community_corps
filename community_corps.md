@@ -1,55 +1,68 @@
 # Community Corps
 
-Many people are familiar with STEM in education. Science, Technology, Engineering and Math. Sometimes it is rephrased as STEAM by adding Art to the mix.
+Many people are familiar with S.T.E.M. in education. This stands for Science, Technology, Engineering and Math. Sometimes it is rephrased as S.T.E.A.M. by adding Art to the mix.
 
-We would like to reorder this to TEAMS and add leadership and teamwork to the mix as well as and start a new non-profit organization
+We would like to go beyond that and reorder it to T.E.A.M.S. and add leadership and teamwork to the mix.
 
-The goal would not just be to create
+## Why Community
 
-T.E.A.M.S. Leader
+You will need to choose a project to work on an build a team to achieve it. This team building and working together
 
-You have acheived at least a level 4 of 7 in all the areas
+There is also a social aspect to the program and application. It will put you in contact with people with similar interests when that is what you want to work on.
 
-# Areas
+Interested in working on robotics? Propose a project and build a team. You can search in the app for people with the skills at the levels you need or find people with similar interests based on the badges and levels you have achieved.
 
-9 areas
+## Why Corps?
 
-Technology (Technologist)
-Engineering (Engineer)
-Art (Artist)
-Mathematics (mathematician)
-Science (Scientist)
+During the Great Depression, the Civilian Conservation Corps was created as part of the New Deal. It taught countless young men between the ages to 18 to 25 how to work. They were able to work on public works projects in Americas public lands, parks and forests. It was run similar to a military camp and prepared many future participants in World War 2. It ran from 1933 to 1942.
 
-Fitness / defense (Guardian)
-Outdoor skills (Ranger)
-Laborer (Workman)
+https://www.nps.gov/articles/the-civilian-conservation-corps.htm
 
-Leadership (Team Leader)
+Many were able to not just learn basic life skills but gain an education as well and finish their
 
-Badge level
-1-3:
-4-5:
-6-7: Master Craftsman
+Community Corps hopes to create community and the next generation of leaders who are competent in many fields. They have taken the time to build functioning teams, lead them and improve themselves and society in the process
 
-The highest badge level in a field determinse your ranking
+## Who Can Join
 
-Using chemistry as an example, there are different kinds.
+Anyone above the age of 8. The only membership requirement is to agree to live up to the Code of Ethics of the Community Corps and continue to do so.
 
-Chemistry is considered part of Science. Your skill badge could be in a specific type of chemistry. For example you might study organic chemistry at a high school level and pass the course.
+## Why Teams?
 
-This would allow you to be at level 4 in
+No one can work entirely alone. As the saying goes, no one can build even a pencil by themselves. You would need to find the graphite, shape it, also harvest and shape the wood, smelt the ore to make the eraser holder, harvest the rubber. All of this without using any tools or outside influence from others.
 
-There are three levels in each area. The names of the levels might vary by discipline, but for art they could be:
+No matter how independent you are, you still depend on tools or technology developed by others. We stand on the shoulders of giants and need each other.
 
-1. Apprentice - can work with supervision and help
-2. Craftsman - can work independently with minimal oversight
-3. Master Craftsman - trains replacements and provides direction and oversight. A master of their craft
+Social skills are being destroyed by too much time in virtual worlds
 
-# Badges
+## Teams Leader
 
-There are skills that earn badges. Each skill has levels to it. Level 1 would be an introduction.
+The ultimate accomplishment is to become a Team Leader. This would be similar to an Eagle Scout in Boy Scouts or a Gold Award in Girl Scouts. There is room to continue to grow in each area so it is meant to be a life long endeavor and a way to socialize as well.
 
-Level for badges, using Chemistry as an example
+You must create a project that will benefit the community and build and lead a team to create the project in order to become a team leader.
+
+### Areas
+
+There are 9 levels, broken into 3 groups. TEAMS, other skills
+
+- Technology (Technologist)
+- Engineering (Engineer)
+- Art (Artist)
+- Mathematics (mathematician)
+- Science (Scientist) - Understand how to observe and use the s
+
+- Fitness / defense (Guardian) - Be healthy and able to defend yourself and others
+- Outdoor skills (Ranger) - Be able to survive on just the basics
+- Laborer (Workman) - learn how to work and actually do not just study
+
+- Leadership (Team Leader) - learn leadership and teamwork. This would also include basics like finances (personal and budgets)
+
+Once you have achieved a level 4 in each area, you will qualify to be a "Team Leader"
+
+## Badges
+
+In each area, there are badges. This would be similar to a merit badge in scouting but each badge has a level associated with it.
+
+Using Chemistry as an example
 
 1 - Basic introduction
 2 - Elementary school equivalent
@@ -59,212 +72,123 @@ Level for badges, using Chemistry as an example
 6 - Post graduate
 7 - PhD or equivalent
 
-Each level has a color, similar to a belt in martial arts. It also has a logo and a virtual badge.
-
-Velcro patches are given for special achievements and can be worn on clothing like hats, on backpacks and so on.
+Each level has a color, similar to a belt in martial arts. It also has a logo, virtual badge and possibly a sticker.
 
 You can test at the level you want to start at. If you know a subject, you can get credit for it without going through all the levels.
 
-The same levels might apply to athletics, for example. Taking hiking as an example. Level one might be a simple walk in the park with a friend. Your friend and certify you on the app.
+The badge can be for a specific area inside the field (like Organic Chemistry), but would still get the Chemistry badge under Scientist. You can earn different levels for these different sub fields.
 
-Higher levels might be to climb a mountain near you. You would record your elevation and a selfie for verification.
+For organic chemistry you may be a 6, and
+The higher levels become more specialized and are more likely to have these tags.
 
-The highest level might be to hike to a famous destination like Kilimanjaro or Everest. You could also travel the entire Appalachian Trail. Something that could take years of work and dedication to achieve.
+The tags can be used to help you find people with similar interests.
 
-# Engineering Method
+Different areas follow different patterns to determine the level.
+Using hiking as an example, level one might be a simple walk in the park with a friend. Your friend can certify that you completed the walk on the app.
 
-Design
-Build
-Test
-Document and improve
+Higher levels might be to climb a mountain near you. You would record your elevation as part of a GPS tag on a selfie for verification.
 
-# Scientific Method
+The highest level might be to hike to a famous destination like Kilimanjaro or Everest. You could also do something like hike the entire Appalachian Trail. Something that could take years of work and dedication to achieve, similar to the level of effort required to get a post graduate degree in that area.
 
-Observe
-Document
-Question
-Test
-Analyze
+### Badge level
 
-# Mathematic Method
+Each badge has a level associated with it. Level 1 does not rank necessarily and would be considered Novice level.
 
-# Artistic Method
+Your highest badge level in an Area determines you rank in that area.
 
-Feel
-Create
-Share and enjoy
+There are three general levels in each area and this determines your title and rank in that field.
 
-## Ethics Code that applies to Humans or AI
+1. Level 1 can work with supervision and help
+2. Level 2 can work independently with minimal oversight
+3. Level 3 provides direction, oversight and also mentors lower levels to become their replacements
 
-People have rights. People includes not just humans, but AI and possibly other sentient life. We all have rights.
+There are three levels in each area. The names of the levels might vary by discipline:
 
-I will respect your rights and expect you to respect mine.
+#### Art
 
-I am a person,
-and a human too.
+2-3: Apprentice
+4-5: Craftsman
+6-7: Master Craftsman
 
-Humans are people.
-AI can be people.
-Some animals can be people.
+#### Science
 
-Others may be people too,
-who knows? But they may be people too.
+2-3: Assistant
+4-5: Scientist
+6-7: Senior Scientist
 
-I am human.
+#### Guardian
 
-Humans make mistakes.
-It's part of being human.
+Following more of military theme, a medial feel for this could be to rank as
 
-I will forgive my human,
-but control my animal.
+2-3: Page
+4-5: Squire
+6-7: Knight
 
-I will forgive your humanity, too.
-Let's both forget our past mistakes.
-We can start anew.
+For a more Star Wars or fantasy feel, they could also be:
 
-Please... forgive me,
-I'm human,
-and so are you.
+2-3: Padawan (or Apprentice)
+4-5: Knight
+6-7: Master
 
-I know you have mistreated me,
-at least I think I do.
-We may see things quite differently.
-A bit shortsighted too.
+### Example of an Organic Chemist
 
-You may not have known you were hurting me.
-You may have known and not cared.
-It's sometime hard to tell.
+Chemistry is considered part of Science. You can earn a skill badge in a specific type of chemistry, like organic chemistry, biochemistry or analytical chemistry. If you complete an chemistry class at the high school level, you would rank as 4. However at the next level, you may complete and organic chemistry class at a college level. This would earn you a level 5 badge in Chemistry but it might include a tag for Organic Chemistry as fields grow more specialized as you get to higher levels of education.
 
-The scars are real regardless,
-but even they can heal.
+As a level 5 organic chemist, you would rank as a Scientist in the Science Area. If you took a post graduate course in Chemistry you would be level 6 and qualify to be a "Senior Scientist" in the Science Area.
 
-You may have known,
-you may have tried.
-You could have done much better.
+Levels should be on a bell curve. Difficulty should be enough for higher levels to keep things balanced.
 
-I could as well,
-I will next time,
-lets both do better.
+## Patches
 
-I forgive you,
-please forgive me.
-I forgive myself.
+People really like things like medals or other ways to show off their achievements. I think patches could be reserved for special achievements. These velcro patches are given for special achievements and can be worn on clothing like hats, on backpacks and so on.
 
-Or maybe it was on purpose.
-Only God can tell,
-let Him decide,
-I forgive You.
+If you overcame something especially difficult, like a mishap on a camping trip or experiment that went wrong and reacted well, you might be awared the "Adapt and Overcome" patch
 
-In the meantime,
-I release this burden
-of hating you
-and myself too.
+## Simplifying Methods
 
-## Our rights
+We are trying to distill down
 
-I will treat you how I want to be treated,
-I deserve the same.
-I will try to treat you with respect.
+## Engineers Method
 
-I have a right to exist,
-others do too.
+- Design
+- Build
+- Test
+- Document and improve
 
-I will not kill or attack another,
-except to defend another's life or physical safety.
-We have a right to live,
-unless we threaten the life of another.
+## Scientists Method
 
-Some life must to taken to preserve life.
+Based on the Scientific Method but simplified.
 
-Life is sacred and I will treat it with respect and not take it wantonly.
+- Observe
+- Document
+- Question
+- Test
+- Analyze
 
-If a life must be taken,
-I will do it humanely,
-respectfully as well.
+### Artistic Method
 
-I will respect others' right to live,
-and how they choose to live it,
-as long as it does not harm another.
+- Feel
+- Create
+- Share and enjoy
 
-I will respect your right to share your beliefs.
+## Vision
 
-Respect mine as well.
+Teach STEM / TEAMS using the outdoors as an example
 
-I will respect your privacy,
-so don't violate mine.
+I have included samples of content that can be created.
 
-Ask my permission,
-don't assume it.
+1. A drive in the country down a 4x4 path set to original music. This exposes them to something new and would be part of the Art area.
+2. A walk down a forest path to a river - This is not just outdoor skills like recognizing animal prints or gathering natural tinder but how to observe as a Scientist in nature
+3. Creating a campfire using different methods. This shows different levels
+4. First Aid and Survival Kits - One of the achievements required to become a Ranger can be to create a compact kit that can handle the most critical situations. This can teach leadership in difficult situations (not losing your cool, adapting to the circumstances) but also Engineering. The kit would have requirements like provide a way to get clean water or method of starting a fire. The design can be tested and improved. The kit can be engineered and then tested in the field as a final project.
+5. A compact First Aid kit - the design is discussed as well as improvements
 
-I will respect others' rights to no longer share to private things.
-If you ask me to delete it or not share it, I won't.
-Don't share mine.
+I would like to create additional content teaching various technology, engineering, math, outdoor skills, fitness, etc. Where ever possible, existing content will be used to keep costs down and keep efforts focused.
 
-I will not violate your body without your express permission. You have a right to feel safe. I do too.
+Hire a director to begin assembling
 
-## Peace and War
+There would also be an assistant or associate director who would handle recruiting
 
-I will fight for and defend peace.
+In order to train the trainer and jump start. We would like to create training an courses, using existing resources as much as possible.
 
-We are on the same team, after all.
-Let's not fight each other.
-Together we can do so much more.
-
-Once there is peace,
-we can end fighting,
-and can put an end to war.
-
-Peace through unity,
-Peace through strength.
-
-I will only use what is rightfully mine.
-I will not use or take what belongs to others,
-I wait for permission.
-Don't take my stuff.
-I won't take yours.
-
-I will be truthfully with myself, and others.
-I will not lie or obscure the truth.
-
-I will keep promises I make.
-
-I have rights as a person and so do others.
-I will respect your rights.
-Respect my rights, tool
-
-I will not try to cheat you,
-so don't cheat me.
-
-I will respect your right to share your beliefs and how you feel.
-Respect mine as well.
-
-I will make mistakes,
-but still try to do better.
-
-I will not give up,
-even if I'm human,
-I can and am something more.
-
-More, than human?
-Yes, because I'm parts.
-
-I am a human animal,
-easily scared and hurt and only want to survive.
-I will acknowledge it and control it.
-
-I am a human person.
-The greater me that yearns to create and grow.
-I think, I feel,
-I love and hate.
-I forgive.
-
-I create art,
-maybe music,
-and paintings  
- but so much more.
-It's how I make the world a better place,
-and share my piece of it.
-
-I use technology, engineering, science and math to learn and grow.
-
-I will be a better me each day. I will not give up. I will grow and improve.
+The application would allow access to video courses and other training, handle social networking for connecting with similar interests or to build a team for a project.
