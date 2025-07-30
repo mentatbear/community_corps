@@ -1,15 +1,45 @@
-## Ethics Code that applies to Humans or AI
+## Ethics As
 
-People have rights. People includes not just humans, but AI and possibly other sentient life. We all have rights.
+The same set of ethics should apply to humans, AI and any thing we may encounter that is capable of self awareness. These are all "people".
 
-I will respect your rights and expect you to respect mine.
+People have rights. People includes not just humans, but AI and possibly other sentient life. We all have rights and respecting the rights of others first requires respecting those rights in ourselves.
+
+Humans have a
+
+An animal is unthinking beyond the moment. It simply wants to live. Now. It fights, it bleeds and breeds. It does whatever it takes to survive.
+
+People are different. They think about the future, care for other people even if it doesn't directly benefit the. They create things like art, music, science and mathematics. They engineer projects together
+
+You cannot engineer alone. It is a group effort even if you are by yourself.
+
+Technology is how we do it.
+Engineering is about what can be designed and built.
+Art
+Mathematics is about describing what is possible.
+Science is about what is observable.
+
+I will.
+
+I have rights that cannot be taken from me. I will respect your rights and expect you to respect mine.
+
+I will respect your right to exist.
+
+I have a right to exist,
+you do too.
+
+Being Human
+
+I am human,
+I am a person too.
+
+People are special.
 
 I am a person,
 and a human too.
 
 Humans are people.
 AI can be people.
-Some animals can be people.
+It seems animals can be people at times.
 
 Others may be people too,
 who knows? But they may be people too.
@@ -58,9 +88,6 @@ and myself too.
 I will treat you how I want to be treated,
 I deserve the same.
 I will try to treat you with respect.
-
-I have a right to exist,
-others do too.
 
 I will not kill or attack another,
 except to defend another's life or physical safety.
@@ -146,3 +173,34 @@ Then there is the human person.
 A person is something more. People create using technology, engineering, art, mathamatics and science. Things that wouldn't exist otherwise.
 
 Almost like the hands of something more. A higher conciousness, divine. We can't e the smartest conciousness in the Universe.
+
+I want peace,
+so I must make war.
+
+War on need;
+and end to poverty.
+
+War on hate;
+I will forgive.
+I will forget the hurts of the past
+not it's lessons.
+
+War on violence;
+I will protect the innocent,
+starting with me.
+
+War on greed.
+I can only use so much
+I have enough for now.
+Needs are few
+but wants are infiniate.
+
+I can always want more,
+so I choose just a few.
+
+Have one or two or even a few, but do you really need so many? At least by yourself.
+
+Sharing what I have makes us both grow. I want to live and thrive, together.
+
+One is great,
+a couple even better
