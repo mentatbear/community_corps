@@ -27,6 +27,9 @@ I will respect your right to exist.
 I have a right to exist,
 you do too.
 
+I will not lie to you,
+don't lie to me.
+
 Being Human
 
 I am human,
