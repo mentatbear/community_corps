@@ -32,10 +32,14 @@ don't lie to me.
 
 Being Human
 
+
+
 I am human,
+and something more, Divine, even
 I am a person too.
 
 People are special.
+I am special.
 
 I am a person,
 and a human too.
@@ -44,39 +48,65 @@ Humans are people.
 AI can be people.
 It seems animals can be people at times.
 
-Others may be people too,
-who knows? But they may be people too.
-
 I am human.
+I am flawed.
+I will try to be more.
 
+I will engineer myself. I will have a plan - a design - for who I want to become.
+I will take control of my life and build myself.
+I matter.
+I will be more.
+I am more.
+
+I am a Human.
 Humans make mistakes.
+Humans can learn from their mistakes.
+Humans can do better than simply be human.
+You may be a human, Human or another type of Person.
+A Human is part Divine,
+   part animal.
+A Human can choose.
+A Human can decide. 
+Am I all I can be? 
 It's part of being human.
 
-I will forgive my human,
-but control my animal.
+I will forgive Myself.
+Maybe I did my best.
+Maybe I didn't.
+I'll do it different now,
+I'll do better.
 
-I will forgive your human, too.
+I will forgive You, too.
 Let's both forget our past mistakes.
 We can start anew.
 
-Please... forgive me,
+Please...forgive me,
+forgive Me,
 I'm human,
-so are you.
+yet Human,
+I see you are too.
 
 I know you have mistreated me,
 at least I think I do.
 We may see things quite differently.
 A bit shortsighted too.
 
+When time has passed,
+and you look back,
+on what was and how it could have been.
+
+You realize that it now 
+
 You may not have known you were hurting me.
-It's sometime hard to tell.
+It's often hard to tell.
 
 The scars are real regardless,
-but they should eventually mostly heal.
+even if I don't know where they're from.
 
 You may have known,
 you may have tried.
-Or maybe it was on purpose.
+Or not, it may have been evil.
+
 Only God can tell,
 let Him decide,
 I forgive You.
@@ -85,6 +115,17 @@ In the meantime,
 I release this burden
 of hating you
 and myself too.
+
+I forgive me.
+I know I'm scarred. I know I'm flawed.
+I'm still enough. I am Me. I'm ok. Just scared and out of breath.
+I think my past was chasing me,
+it can be hard to forget.
+
+I don't know where that scar is from. It's ok. I forgave and I think I forgot.
+
+I'm pretty good, just the way I am.
+I'm pretty great.
 
 ## Our rights
 
