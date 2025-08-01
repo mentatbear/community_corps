@@ -8,7 +8,17 @@
 6. I will keep promises I make.
 7. I have rights as a person. You do too. I will respect both our rights.
 8. I will not lie to myself or others.
-9. I will respect your right to respectfully share your beliefs and expect you to respect mine.
-10. I have a right to protect my own life using the methods and tools of my choosing.
+9. I will respect your right to share your opinions.
+10. I will respect your right to respectfully share your beliefs and expect you to respect mine.
+11. I will protect my life. I will respect Your right to live.
+12. I will not hate. Not Me or You.
 
-Peace through unity, peace through stength.1
+I am not alone. I am part of a community.
+
+A community that is there for each other. You are the same team. The same tribe. The same, more than you realize.
+
+I love Me. I love You and you, too.
+
+Peace through unity, peace through stength.
+
+I love Peace. End the War. by whatever means necessary.
