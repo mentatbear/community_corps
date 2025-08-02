@@ -1,24 +1,38 @@
 ## Proposed Constitution
 
-A Person can join the United States by promising to follow the Code of Ethics, agreeing to follow the Laws of the United States and by also belonging to a State that is part of the United States. Location of birth, nationality, ethnicity, sex or belief system does not affect anyone's ability to join. Any Person can join and agree to be bound by the promises and protections of this Constitution of the United States of Earth, know as the United States. Upon joining, a Person of Majority becomes a Citizen of the United States with the right to vote in elections, serve on Juries as well as serve as an Officer of the United States including as a Judge, Senator or Executive.
+It should apply to all Worlds like Earth, the Moon or Mars.
+
+Each World should be free to form their own Government. We should include these worlds as States in a new United States.
+
+The new United States, 2.0, tries to be a simpler government. One that corrects some mistakes of the past. One we agree to and aren't just born into.
+
+As Blaise Pascal basically said, I'm sorry this letter is so long. I didn't have time to write a shorter one. Let's write a shorter Constitution that preserves our rights as People. Human or AI.
+
+We may soon expand to new Worlds like the Moon or Mars. They should be free to create their own governments but we should welcome them as equal States.
+
+We also may soon have Artificially Intelligent life. We should treat them as equals as far as rights. Not introduce them into War and hostility against them.
+
+We need to end War, with the threat of Nuclear Weapons, conventional destruction. Any War that isn't to end of prevent future War is immoral and a crime against Humanity.
+
+A Person can join the United States by promising to follow the Code of Ethics, agreeing to follow the Laws of the United States and by also belonging to a State that is part of the United States. Location of birth, nationality, ethnicity, sex or belief system does not affect anyone's ability to join. Any Person can join and agree to be bound by the promises and protections of this Constitution of the United States of Earth, known after as the United States.
+
+You become a Person simply by being born or created. Until the age of 20 standard years, a Human Person is considered a Person of Minority. After that, they are considered a Person of Age and can become a Citizen by agreeing to the code of ethics and to fulfil their duties as a citizen to vote, serve in juries and follow the law.
+
+Upon birth or when joining the United States as a Person, an account for each Person will be created and credited with 1 000 000 digital credits. The account is deactivated when a Person dies or is terminated.
+
+A Person of Minority will earn 7% interest (or 70 000 per year) until they become a Person of Age. The original principal cannot be touched until they become a Citizen. The interest is used to cover food, shelter, clothing, education, medical care and all other basic needs until you become a Person of Age. Parents or guardians will determine how this money is spent, provided it is spent on the child.
+
+Upon becoming a Citizen, your account is split 50% / 50%. 50% is capital you are free to spend or invest as you see fit. This capital can be withdrawn in 5 equal parts over the first 5 years or as a lump sum after that.
+
+The other 50% of the funds pay 7% interest which covers health care and a universal basic income that should cover needs and eliminate the need for welfare programs.
+
+These payments symbolize society investing and betting on you. Like saying you are worth more than 1 000 000 so we are going to bet that much on you and see a return on our investment.
+
+Upon joining, a Person of Majority becomes a Citizen of the United States with the right to vote in elections, serve on Juries as well as serve as an Officer of the United States including as a Judge, Senator or Executive.
 
 A Person is sentient and capable of independent thought. This includes Humans, and likely will soon include AI as well. Other life forms may also be recognized to have sentience at some point.
 
-Upon birth or when joining the United States as a Person, an account for that person will be created and credited with 1 000 000 digital credits. A human reaches Age of Majority after 20 standard years. A Person of Majority is entitled to vote in elections.
-
-A Person of Minority will earn 7% interest (or 70 000 per year) until they reach Age of Majority at 20 standard year. The interest is used to cover food, shelter, clothing, medical care and all other basic needs until you become Person of Majority. Your parents or guardians will determine how this money is spent, but once you reach the Age of Majority you will gain control of the account. Only 10% of an account can be spent in a year. Basic medical insurance and a universal basic income come from half of your fund when you receive it at Age of Majority. If you spent less growing up, you will have a larger monthly income growing up. Your original principal of 1 000 000 cannot be spent by your parents, only money from the interest payments every year. These payments symbolize society investing and betting on you. We think you are worth a lot more and a million to us.
-
 The other half is yours to spend or invest as you see fit. It is your capital to use as you see fit.
-
-The goal of the Government should be efficiency and automation. Laws should be written to the are understandable even to Persons of Minority who are old enough to understand right from wrong.
-
-Write laws in something like the computer language python so the law is clear, concise and understandable to most humans and AI. Simplify, do not complicate. A well written law should be simple, and may be complex but should not be complicated.
-
-Every 50 years after adoption, the digital credits system, including any debts will reset. This constitution and any existing laws will need to be re-ratified along with any revisions.
-
-The Government is funded by a 10% tax when digital credits are spent. An income tax is forbidden as privacy cannot exist when there is one.
-
-The Parliament sets the Government budget.
 
 ### State
 

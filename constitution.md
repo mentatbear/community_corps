@@ -31,5 +31,3 @@ Arkansas is on the same footing as California, Alberta, Texas. States that are U
 A new financial system can be created and many existing problems solved.
 
 A digital dollar can use fully automated accounting and auditing
-
-Any existing debts including national debts, student loans, mortgages and personal loans would be null and void.

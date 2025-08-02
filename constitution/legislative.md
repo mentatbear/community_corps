@@ -1,5 +1,15 @@
 # Legislative
 
+The Legislature is responsible for creating the laws and setting the budget. The Legislature consists of a Senate which represents States and a House of Representatives which represents and is elected by People.
+
+Laws should be written so they are understandable to most Citizens. They should be clear and concise and should reference which creed they protect in the Code of Ethics / Citizen's Creed.
+
+Write laws in something like the computer language python so the law is clear, concise and understandable to most humans and AI. Simplify, do not complicate. A well written law should be simple, and may be complex but should not be complicated.
+
+Every 50 years after adoption, the digital credits system, including any debts will reset. This constitution and any existing laws will need to be re-ratified along with any revisions.
+
+The Government is funded by a 10% tax when digital credits are spent. An income tax is forbidden as privacy cannot exist when there is one.
+
 Each State is equal with any other State.
 
 Each States are represented by two Senators in a Senate. The Senators elect a President and Vice President of the Senate.
@@ -27,3 +37,9 @@ The Governor of the State's Senator appoints the Temporary Senator if a Senator 
 All votes by Legislators and Justices should be public record.
 
 The Senate should
+
+The Government should be efficient and automated where possible.
+
+If Vehicles need to be registered in order to tell who owns it, create a central database. It can only be updated by someone with a signing key that is authorized. This would show a record of who
+
+The Parliament sets the Government budget.

@@ -32,4 +32,4 @@ Criminal cases are overseen by a Judge and Jury of 7 Persons. The Judge instruct
 
 A Judge is elected by the people according the laws of their State. Judges can be removed by a 2/3 majority vote of their peer judges or the people.
 
-A Judge is elected for a 7 year term, up to 3 terms.
+A Judge is elected for a 7 year term, up to 3 terms based on the laws of the State.
