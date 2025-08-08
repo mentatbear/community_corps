@@ -1,3 +1,13 @@
+We live in a world where many of the challenge we face are of our own creation.
+
+Legal or illegal immigration, tariffs, travel issue with passports, visas. All disappear if the states involved are part of the same federal government. You do not need a passport to travel. No tariffs or duties. There are exceptions (like checking for fruit that may have pests) but generally painless.
+
+Why aren't all these states, like the states in America, Mexico, Canada. The world even. England, Wales, Scotland.
+
+## War / National strife
+
+You do not immigration
+
 ## Proposed Constitution
 
 It should apply to all Worlds like Earth, the Moon or Mars.

@@ -1,6 +1,8 @@
 ### Rights of a Person
 
-A Person is eligible as an inhabitant of any State joining the United States.
+Robots defined as a machine (like a computer, android, most AI, or mechanical device) that is not aware of it's own existence. Robots often perform labor for People
+
+If a robot or AI is aware of it's own existence and capable of willingly agreeing to the Code of Ethics. If AI meets the requirements of a Citizen, it . Otherwise, the AI is not considered to be a Person and does not have the rights of a person. If an AI is a threat, it can be terminated without other cause.
 
 AI can recognized as a Person, just like a Humans. Collectively, AI Persons are represented by one State.
 
@@ -8,17 +10,17 @@ Every Person has the same rights. This includes a right to exist and live as the
 
 We expect other people to respect our rights, but recognize it starts with us respecting those rights for other People.
 
-0. A Person has a right to live, and live according to their beliefs and values provided they are not a threat to the safety of others.
+1. A Person has a right to live, and live according to their beliefs and values provided they are not a threat to the safety of others.
 
-1. A Person has a right to share their beliefs and assemble in peace as they see fit. Persons can publish values peacefully in person or using media of their choice. The Government cannot dictate what a person should believe.
+2. A Person has a right to share their beliefs and assemble in peace as they see fit. Persons can publish values peacefully in person or using media of their choice. The Government cannot dictate what a person should believe.
 
-2. A Person has the right to self defense and responsibility to defend the rights of others. A Person has a right to possess and use weapons for defense.
+3. A Person has the right to self defense and responsibility to defend the rights of others. A Person has a right to possess and use weapons for defense.
 
-3. A Person has a right to be judged by a Jury of 7 equal Persons for criminal matters and a Justice for civil matters.
+4. A Person has a right to be judged by a Jury of 7 equal Persons for criminal matters and a Justice for civil matters.
 
-4. A Person can only be tried once for a crime.
+5. A Person can only be tried once for a crime.
 
-5. A Person can choose to be silent at any time.
+6. A Person can choose to be silent at any time.
 
 Any rights not taken by the United States or the State remain with the person.
 

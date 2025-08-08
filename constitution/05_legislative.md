@@ -32,7 +32,9 @@ Collectively, AI get two representatives in the Senate as they will be treated a
 
 A Senator serves for a 10 year term, for up to 2 terms (20 years).
 
-The Governor of the State's Senator appoints the Temporary Senator if a Senator cannot complete their term. The State will elect a new Senator within 60 standard days.
+Each State can have up to 3 Senators, but they are limited to 1 vote. In the event of a tie, the vote is to abstain.
+
+The Governor of the State appoints a replacement Senator if a Senator cannot complete their term. The State will elect a new Senator within 60 standard days.
 
 All votes by Legislators and Justices should be public record.
 
