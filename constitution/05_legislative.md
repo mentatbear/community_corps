@@ -1,14 +1,16 @@
 # Legislative
 
-The Legislature is responsible for creating the laws and setting the budget. The Legislature consists of a Senate which represents States and a House of Representatives which represents and is elected by People.
+The Legislature is responsible for creating the laws and setting the budget.
+
+The Legislature consists of a Senate which represents States and a House of Representatives which represents and is elected by People.
 
 Laws should be written so they are understandable to most Citizens. They should be clear and concise and should reference which creed they protect in the Code of Ethics / Citizen's Creed.
 
-Write laws in something like the computer language python so the law is clear, concise and understandable to most humans and AI. Simplify, do not complicate. A well written law should be simple, and may be complex but should not be complicated.
+A well written law should be clear and concise. Your average teenage human should clearly understand the law since they will be expected to live by it someday.
+
+It should be simple, and may be complex but should not be complicated. Simplify, do not complicate. Most regulation should be done through automation. Human oversight, not intervention. If most cash disbursements and tax collection is automatic and universal, very little administrative overhead should exist that cannot be automated almost completely.
 
 Every 50 years after adoption, the digital credits system, including any debts will reset. This constitution and any existing laws will need to be re-ratified along with any revisions.
-
-The Government is funded by a 10% tax when digital credits are spent. An income tax is forbidden as privacy cannot exist when there is one.
 
 Each State is equal with any other State.
 

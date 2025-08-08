@@ -40,17 +40,22 @@ It's ok once in a while.
 
 But will you do what's right,
 what's best,
-when you have a chance?
+even for a while?
+
+The time is now,
+this is the moment,
+you must now begin
 
 To lead,
 to choose
-to do whatever's right.
+to do what's right,
+find a better path.
 
 You will not flee,
 but rather choose,
 starting here and now.
 
-You lead by choosing, it the difference between a Sheep Dog and a Wolf. Both are dangerous. Both are dogs, and are the same except for how they treat the flock. Friend or food? Am I here for the benefit of the flock, or do I see them as a benefit to me?
+You lead by choosing, it the difference between a Sheep Dog and a Wolf. Both are dangerous, both are dogs with the same animal instincts. The difference is how they view and treat the flock. Friend or food? Am I here for the benefit of the flock, or do I see them as a benefit to me?
 
 Politicians should beware if they are Wolves. Wolves only want to feed on the flock. There are true leaders, but they are leaders first, and then a political leader without becoming a Politician. These are rare, or at least have been.
 

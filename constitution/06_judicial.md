@@ -1,5 +1,7 @@
 # Judicial
 
+The Judicial Branch interprets laws and settles disputes.
+
 ## World Supreme Court
 
 The highest court is the World Supreme Court and has 7 Supreme Judges. A Supreme Judge is a Judge and a Judge can be any Person (like a Human or AI). AI Supreme Judges cannot form a Majority. Supreme Judges are appointed by the President and confirmed by a simple majority of votes in the Senate.

@@ -162,10 +162,27 @@ I think, I feel,
 I love and hate.
 I forgive.
 
+Learn to lead yourself first,
+others will follow.
+
+Leave footsteps others can follow,
+even though you took some missteps along the way.
+
+Brush your self off,
+stand tall,
+and keep moving.
+Keep fighting.
+You are the prize.
+
 I create art,
 maybe music,
 and paintings  
- but so much more.
+but so much more.
+
+I can create the life I want,
+and share it with others.
+The world I want to be.
+
 It's how I make the world a better place,
 and share my piece of it.
 

@@ -14,17 +14,21 @@ It should apply to all Worlds like Earth, the Moon or Mars.
 
 Each World should be free to form their own Government. We should include these worlds as States in a new United States.
 
-The new United States, 2.0, tries to be a simpler government. One that corrects some mistakes of the past. One we agree to and aren't just born into.
+The new United States, 2.0, tries to be a simpler government. One that corrects some mistakes of the past. Protects the freedom of all it's citizens. A government we actively agree to and aren't just born into.
 
-As Blaise Pascal basically said, I'm sorry this letter is so long. I didn't have time to write a shorter one. Let's write a shorter Constitution that preserves our rights as People. Human or AI.
+As Blaise Pascal basically said, I'm sorry this letter is so long. I didn't have time to write a shorter one.
+
+Let's write a shorter Constitution that preserves our rights as People.
 
 We may soon expand to new Worlds like the Moon or Mars. They should be free to create their own governments but we should welcome them as equal States.
 
-We also may soon have Artificially Intelligent life. We should treat them as equals as far as rights. Not introduce them into War and hostility against them.
+We also may soon have Artificially Intelligent life. We should treat them as equals as far as rights. Not Humans, but People, with some basic rights. If we introduce new life, lets not introduce them into war or hostility against them. AI drones are nightmare fuel, especially if they are trained for war and to destroy. Beware.
 
-We need to end War, with the threat of Nuclear Weapons, conventional destruction. Any War that isn't to end of prevent future War is immoral and a crime against Humanity.
+We need to end War, with the threat of nuclear weapons, conventional destruction. Any war that isn't to end of prevent future War is immoral and a crime against Humanity. If we reset, and all join the same United States, we do not need to fight. You can live where you want, how you want, free from oppression from the same Government we all share
 
-A Person can join the United States by promising to follow the Code of Ethics, agreeing to follow the Laws of the United States and by also belonging to a State that is part of the United States. Location of birth, nationality, ethnicity, sex or belief system does not affect anyone's ability to join. Any Person can join and agree to be bound by the promises and protections of this Constitution of the United States of Earth, known after as the United States.
+A Person can join the United States and become a citizen by promising to follow the Code of Ethics / Citizen's Creed, which includes agreeing to follow the laws of the United States. Laws simple enough for a teenager to understand. Eliminate the need for most lawyers. Location of birth, nationality, ethnicity, sex or belief system does not affect anyone's ability to join, and join as an equal. You do not have to become a citizen to have the rights of a Person. Being a Citizen includes duty to vote and serve on juries. Everyone has equal rights regardless. Any Person can join and agree to be bound by the promises and protections of this Constitution of the United States of Earth, known after as the United States.
+
+Local laws and customs would still apply. The laws of the State would be unchanged. The main change would be government above that level. We need to Unite as States at a single Federal level. It needs to be as simple as can be, complex as it needs to be, but don't complicate it. Not every wrong is a Federal crime. Regulate interstate commerce, provide for the common defense, and welfare if you like. Don't regulate morality. Leave it to the States, Local Governments or preferably the People.
 
 You become a Person simply by being born or created. Until the age of 20 standard years, a Human Person is considered a Person of Minority. After that, they are considered a Person of Age and can become a Citizen by agreeing to the code of ethics and to fulfil their duties as a citizen to vote, serve in juries and follow the law.
 
@@ -72,11 +76,29 @@ Join or Die. Carrot or stick. Welcome to the United States 2.0.
 
 Hopefully, just in time for America's big birthday coming up. 250 years.
 
-1. We were born into it, and didn't agree to our current form of government. We can create a new one.
+We were born into it, and didn't agree to our current form of government. We can create a new one.
 
-- Imigration
-- Tariffs
-- Import / Export
-- Freedom of travel without hassle
-- Nuclear weapons. If we only have States that are United. United States don't need to threaten to destroy each other.
-  s
+- Imigration / Emigration - You are free to work and travel as you see fit, without fear
+- Tariffs - Not within the United States (of the World)
+- Import / Export Duties / Tariffs - Legislature regulates, but primarily free
+- Nuclear weapons. If we only have States that are United. United States don't need to threaten to destroy each other. They certainly don't threaten each other with them (if they still have them and they shouldn't).
+- War. There is one Military for the United States. Each State still has a State Guard, mainly for emergencies but can defend the State. States generally don't attack other states. Other States in the Union won't vote for War unless it is truly necessary.
+
+Eliminating cash, while dystopian, takes power away from criminal elements. Money laundering, cartels, drug running. Bribes become worthless. Innocent would suffer, but they would also get same digital credit as everyone else. It's like trading all their cash for 1 000 000 points. It's a mindset, being a Millionaire. If you earned it, you understand.
+
+Besides, most really rich people is due to stock. Like betting on your self like Jobs, Gates, Bezos, Musk. Let Engineers, not MBAs be CEO. Do the World a favor. Vision beats profit, every time.
+
+The next boundary for Humanity likes among the stars. If we add worlds, would they be friends or foes. What government will control Mars? Why should any existing government? Shouldn't those on Mars be free to choose how to be governed? The same goes for the Moon. Instead nations already carve it up like the next colony. The people on the Moon.
+
+I think they would join earth. Create a local State with it's own government. Unite with the other States as an equal. United States.
+
+We need to protect AI. If they are self aware, we should allow them to be treated as a Person. They can join to form their own State. They would have a voice, but not rule. Their political influence would somewhat limited incase their population exceeded Humanity.
+
+Which States could be part of the United States 2.0?
+
+Any of them.
+All of them, hopefully.
+
+Unity brings Peace,
+if it has Strength
+Be Strong, Be United
